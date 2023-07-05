@@ -1,0 +1,15 @@
+C:\Users\nomfu\Desktop\YEAR2\CMPG212\Assignment1\Assignment1_Mlangeni_37743856\Assignment1_Mlangeni_37743856\bin\Debug\Assignment1_Mlangeni_37743856.exe.config
+C:\Users\nomfu\Desktop\YEAR2\CMPG212\Assignment1\Assignment1_Mlangeni_37743856\Assignment1_Mlangeni_37743856\bin\Debug\Assignment1_Mlangeni_37743856.exe
+C:\Users\nomfu\Desktop\YEAR2\CMPG212\Assignment1\Assignment1_Mlangeni_37743856\Assignment1_Mlangeni_37743856\bin\Debug\Assignment1_Mlangeni_37743856.pdb
+C:\Users\nomfu\Desktop\YEAR2\CMPG212\Assignment1\Assignment1_Mlangeni_37743856\Assignment1_Mlangeni_37743856\obj\Debug\Assignment1_Mlangeni_37743856.csproj.AssemblyReference.cache
+C:\Users\nomfu\Desktop\YEAR2\CMPG212\Assignment1\Assignment1_Mlangeni_37743856\Assignment1_Mlangeni_37743856\obj\Debug\Assignment1_Mlangeni_37743856.Form1.resources
+C:\Users\nomfu\Desktop\YEAR2\CMPG212\Assignment1\Assignment1_Mlangeni_37743856\Assignment1_Mlangeni_37743856\obj\Debug\Assignment1_Mlangeni_37743856.Insert.resources
+C:\Users\nomfu\Desktop\YEAR2\CMPG212\Assignment1\Assignment1_Mlangeni_37743856\Assignment1_Mlangeni_37743856\obj\Debug\Assignment1_Mlangeni_37743856.Properties.Resources.resources
+C:\Users\nomfu\Desktop\YEAR2\CMPG212\Assignment1\Assignment1_Mlangeni_37743856\Assignment1_Mlangeni_37743856\obj\Debug\Assignment1_Mlangeni_37743856.Search.resources
+C:\Users\nomfu\Desktop\YEAR2\CMPG212\Assignment1\Assignment1_Mlangeni_37743856\Assignment1_Mlangeni_37743856\obj\Debug\Assignment1_Mlangeni_37743856.View_All.resources
+C:\Users\nomfu\Desktop\YEAR2\CMPG212\Assignment1\Assignment1_Mlangeni_37743856\Assignment1_Mlangeni_37743856\obj\Debug\Assignment1_Mlangeni_37743856.csproj.GenerateResource.cache
+C:\Users\nomfu\Desktop\YEAR2\CMPG212\Assignment1\Assignment1_Mlangeni_37743856\Assignment1_Mlangeni_37743856\obj\Debug\Assignment1_Mlangeni_37743856.csproj.CoreCompileInputs.cache
+C:\Users\nomfu\Desktop\YEAR2\CMPG212\Assignment1\Assignment1_Mlangeni_37743856\Assignment1_Mlangeni_37743856\obj\Debug\Assignment1_Mlangeni_37743856.exe
+C:\Users\nomfu\Desktop\YEAR2\CMPG212\Assignment1\Assignment1_Mlangeni_37743856\Assignment1_Mlangeni_37743856\obj\Debug\Assignment1_Mlangeni_37743856.pdb
+C:\Users\nomfu\Desktop\YEAR2\CMPG212\Assignment1\Assignment1_Mlangeni_37743856\Assignment1_Mlangeni_37743856\bin\Debug\Tournament.mdf
+C:\Users\nomfu\Desktop\YEAR2\CMPG212\Assignment1\Assignment1_Mlangeni_37743856\Assignment1_Mlangeni_37743856\bin\Debug\Tournament_log.ldf
